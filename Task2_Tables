@@ -1,0 +1,54 @@
+<html> 
+	<head> 
+	<title>Table</title>
+	</head>
+
+	<body>
+	<h2>Bakery Items</h2>
+	<table border="1">
+ 	<thead>
+    		<tr>
+      		<th>Product</th>
+     		<th>Price</th>
+		<th>Quantity</th>
+    		</tr>
+  	</thead>
+  	<tbody>
+    		<tr>
+      		<td>Cinnamon Rolls</td>
+      		<td>Rs.300</td>
+		<td>2</td>
+    		</tr>
+
+    		<tr>
+     		<td>Muffins</td>
+      		<td>Rs.350</td>
+		<td>2</td>
+    		</tr>
+
+		<tr>
+     		<td>Coffee</td>
+      		<td>Rs.100</td>
+		<td>1 cup</td>
+    		</tr>
+
+		<tr>
+     		<td>Biscuits</td>
+      		<td>Rs.400</td>
+		<td>500 grams</td>
+    		</tr>
+
+		<tr>
+     		<td>Pancakes</td>
+      		<td>Rs.450</td>
+		<td>3</td>
+    		</tr>
+
+
+  	</tbody>
+	</table>
+	
+	</body>
+
+
+</html>
